@@ -1,0 +1,23 @@
+class Technologynumber
+{
+	public static void main(String args[])
+	{
+		int num=2025,num1,num2,sum,square,count=0,result;
+		while(num!=o)
+		{
+		rem=num%100;
+		count++;
+		num1=count1;
+		num2=count2;
+		num=num/1oo;
+		}
+		result=num1+num2;
+		square=resut*result;
+			if(num==square)
+			{
+			System.out.println("Technology number");
+			esle
+			System.out.println("not aTechnology number");
+			}
+	}
+}

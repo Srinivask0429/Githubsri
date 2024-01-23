@@ -1,0 +1,14 @@
+class Automaticnumber
+{
+	public static void main(String args[])
+		{
+		int num=76,mul;
+		mul=num*num;
+		if(mul==num)
+			{
+			System.out.println("Automatic number");
+			else
+			System.out.println("not a automatic number");
+			}
+		}
+}
